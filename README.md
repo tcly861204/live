@@ -1,7 +1,9 @@
 #Prototype工具库是扩展在js原型基础上对其进行扩充
-
-##formatDate方法格式化时间戳
-
-###示例：
-*console.log(new Date().formatDate('Y-m-d H:i:s'));
-*'2017-1-14 11:12:10'
+>扩充的方法如下,方法实现了兼容处理，后面会继续扩充
+####trim
+####isArray
+####forEach
+####find
+####fill
+####formatDate
+####getDayCount
